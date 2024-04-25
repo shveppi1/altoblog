@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db0f0327-a8ab-492c-ae34-3842ea519017" name="Changes" comment="интеграция и компоненты element и list">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +85,7 @@
       <workItem from="1713942146661" duration="6248000" />
       <workItem from="1713958368527" duration="7133000" />
       <workItem from="1713971903338" duration="1571000" />
-      <workItem from="1714029059540" duration="1045000" />
+      <workItem from="1714029059540" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="интеграция и компоненты element и list">
       <created>1713971162259</created>
@@ -100,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1713971495661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="интеграция и компоненты element и list">
+      <created>1714030187582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714030187582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
