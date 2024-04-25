@@ -1,0 +1,12 @@
+Index: local/php_interface/migrations.asada.php
+===================================================================
+diff --git a/local/php_interface/migrations.asada.php b/local/php_interface/migrations.asada.php
+deleted file mode 100644
+--- a/local/php_interface/migrations.asada.php	(revision 6b6a6b837c8af63bea0dbca30807bbdfa93d9189)
++++ /dev/null	(revision 6b6a6b837c8af63bea0dbca30807bbdfa93d9189)
+@@ -1,4 +0,0 @@
+-<?php return array (
+-  'migration_dir' => '\\local\\php_interface\\migrations.asada\\',
+-  'migration_table' => 'sprint_migration_asada',
+-);
+\ No newline at end of file
